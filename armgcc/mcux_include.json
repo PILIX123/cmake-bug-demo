@@ -10,7 +10,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
@@ -22,7 +22,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
@@ -34,7 +34,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
@@ -46,7 +46,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
@@ -58,7 +58,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
@@ -70,7 +70,7 @@
       "hidden": true,
       "environment": {
         "ARMGCC_DIR": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
-        "SdkRootDirPath": "${workspaceFolder}/mcux-sdk",
+        "SdkRootDirPath": "c:/Git/Testing/evkmimxrt1064_freertos_hello/mcux-sdk",
         "POSTPROCESS_UTILITY": "",
         "MCUX_VENV_PATH": "",
         "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"

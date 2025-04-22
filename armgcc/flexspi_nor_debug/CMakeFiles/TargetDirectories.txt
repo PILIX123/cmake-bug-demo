@@ -1,3 +1,0 @@
-C:/Git/Testing/evkmimxrt1064_freertos_hello/armgcc/flexspi_nor_debug/CMakeFiles/freertos_hello.elf.dir
-C:/Git/Testing/evkmimxrt1064_freertos_hello/armgcc/flexspi_nor_debug/CMakeFiles/edit_cache.dir
-C:/Git/Testing/evkmimxrt1064_freertos_hello/armgcc/flexspi_nor_debug/CMakeFiles/rebuild_cache.dir
