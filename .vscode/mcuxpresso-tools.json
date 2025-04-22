@@ -1,0 +1,15 @@
+{
+  "version": "25.3",
+  "toolchainPath": "c:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1",
+  "linkedProjects": [],
+  "trustZoneType": "none",
+  "multicoreType": "none",
+  "projectType": "sdk-freestanding",
+  "sdk": {
+    "version": "25.03.00",
+    "path": "${workspaceFolder}/mcux-sdk",
+    "boardId": "evkmimxrt1064",
+    "deviceId": "MIMXRT1064xxxxA",
+    "coreId": "core0_MIMXRT1064xxxxA"
+  }
+}

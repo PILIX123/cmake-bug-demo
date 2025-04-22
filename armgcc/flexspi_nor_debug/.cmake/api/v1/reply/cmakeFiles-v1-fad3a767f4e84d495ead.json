@@ -1,0 +1,283 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "flexspi_nor_debug/CMakeFiles/3.31.5/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/tools/cmake_toolchain_files/armgcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/tools/cmake_toolchain_files/mcux_config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "flexspi_nor_debug/CMakeFiles/3.31.5/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "flexspi_nor_debug/CMakeFiles/3.31.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "flexspi_nor_debug/CMakeFiles/3.31.5/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"path" : "flags.cmake"
+		},
+		{
+			"path" : "config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/all_lib_device.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/CMSIS/Core/Include/CMSIS_Include_core_cm.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/boards/evkmimxrt1064/xip/board_boot_header.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/components/uart/component_lpuart_adapter.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/device_CMSIS.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/xip/device_boot_header.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/device_startup.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/device_system.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_cache_armv7_m7.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_clock.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_common.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_dcdc_1.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_gpc_1.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_igpio.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_iomuxc.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_lpuart.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_pmu.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/drivers/driver_src.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/rtos/freertos/freertos-kernel/middleware_freertos-kernel.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/rtos/freertos/freertos-kernel/middleware_freertos-kernel_config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/rtos/freertos/freertos-kernel/middleware_freertos-kernel_extension.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/rtos/freertos/freertos-kernel/middleware_freertos-kernel_heap_4.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/utilities/utilities_misc_utilities.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/utilities/debug_console_lite/utility_assert_lite.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/utilities/utility_debug_console_lite.MIMXRT1064.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/NXP_SDKs/MIMXRT1064/devices/MIMXRT1064/utilities/utility_str.MIMXRT1064.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Git/Testing/evkmimxrt1064_freertos_hello/armgcc/flexspi_nor_debug",
+		"source" : "C:/Git/Testing/evkmimxrt1064_freertos_hello/armgcc"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
